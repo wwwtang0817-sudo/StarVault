@@ -1,0 +1,8 @@
+.DS_Store
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/

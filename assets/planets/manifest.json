@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "sun",
+    "filename": "sun.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_sun.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "mercury",
+    "filename": "mercury.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_mercury.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "venus_surface",
+    "filename": "venus_surface.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_venus_surface.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "venus_atmosphere",
+    "filename": "venus_atmosphere.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_venus_atmosphere.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "earth_day",
+    "filename": "earth_day.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_earth_daymap.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "moon",
+    "filename": "moon.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_moon.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "mars",
+    "filename": "mars.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_mars.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "jupiter",
+    "filename": "jupiter.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_jupiter.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "saturn",
+    "filename": "saturn.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_saturn.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "uranus",
+    "filename": "uranus.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_uranus.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "neptune",
+    "filename": "neptune.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_neptune.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "ceres",
+    "filename": "ceres.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_ceres_fictional.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "haumea",
+    "filename": "haumea.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_haumea_fictional.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "makemake",
+    "filename": "makemake.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_makemake_fictional.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  },
+  {
+    "slug": "eris",
+    "filename": "eris.jpg",
+    "download_url": "https://www6.solarsystemscope.com/textures/download/2k_eris_fictional.jpg",
+    "source": "Solar System Scope",
+    "license": "CC BY 4.0",
+    "source_page": "https://www6.solarsystemscope.com/textures/"
+  }
+]

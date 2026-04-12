@@ -1,0 +1,1 @@
+# StarVault demo uses only Python standard library dependencies.
