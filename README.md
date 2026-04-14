@@ -61,21 +61,6 @@ export APP_PORT=8000
 - SQLite 数据库：`data/knowledge.db`
 - 无登录、无多用户
 
-## 部署建议
-
-如果只是为了投递时附一个在线演示链接，推荐优先部署到支持 Python Web Service 的平台，例如 Render 或 Railway。
-
-最小部署条件：
-
-- Python 3 运行环境
-- 启动命令：`python3 app.py`
-- 可写文件系统：当前数据保存在 `data/knowledge.db`
-- 环境变量：按需配置 `DASHSCOPE_API_KEY` / `OPENAI_API_KEY`
-- 如需 demo 浏览版：额外配置 `READ_ONLY_MODE=true`
-
-当前服务已兼容云平台常见的 `PORT` 注入；本地默认仍使用 `127.0.0.1:8000`，部署到云端时会自动监听平台分配的端口。
-
-如果你要给面试官展示，建议单独准备一个演示实例，并开启 `READ_ONLY_MODE=true`。这样页面仍可完整浏览，但新增、整理、修改、删除等写操作会被统一拦截并提示当前是 demo 预览版本。
 
 ## 说明
 
